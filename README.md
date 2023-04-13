@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @QK
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m @Quang Khanh
+- 👀 I’m interested in commandline ✨ 
